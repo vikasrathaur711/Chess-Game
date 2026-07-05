@@ -1,9 +1,6 @@
-# Chess-Game
 # ♟️ Real-Time Chess Game
 
 A real-time multiplayer chess game built using Node.js, Express.js, Socket.IO, and Chess.js.
-
-# ♟️ Real-Time Chess Game
 
 ## Technologies Used
 
